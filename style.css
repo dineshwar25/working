@@ -1,0 +1,30 @@
+.hero {
+    background: url('bom.png') no-repeat center center/cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+  }
+  .hero {
+    background: url('aaa.jpg') no-repeat center center/cover;
+    
+  }
+  body {
+    font-family: 'Lora', serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700; /* or 'bold' */
+  }
+  p, .hero p, .service-card p {
+    font-weight: 700; /* Make text bold */
+  }
+  .nav-link {
+    font-weight: 700;
+  }
+  .bold-text {
+    font-weight: 700;
+  }
